@@ -30,5 +30,8 @@ extern const unsigned char image_battery[];
 extern const unsigned char image_hourglass[];
 extern const unsigned char image_palm[];
 extern const unsigned char image_alert[];
+extern const unsigned char image_verylowbattery[];
+extern const unsigned char image_xmas[];
+extern const unsigned char image_xmaspresent[];
 
 /* FILE END */
